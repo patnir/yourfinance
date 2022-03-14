@@ -1,0 +1,10 @@
+{
+  "name": "Your Finance",
+  "description": "Personalized stock recommendations based on your internet activity!",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": ["history"]
+}
